@@ -51,7 +51,14 @@ body {
     background-color: #241b35;
     color: #856885; 
 }
-
+p {
+    background-color: #856885;
+    color: #241b35;
+}
+h1{
+    background-color: #856885;
+    color: #241b35;
+}
 .encabezado{
     max-width: 1300px;
     min-width: 300px;
